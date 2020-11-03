@@ -5,3 +5,7 @@ Check out versions for Java or Python. Both files start out using `input`/`Scann
 ### Java
 
 For the java version, you'll need to have [JUnit and Hamcrest as dependencies](https://github.com/junit-team/junit4/wiki/Download-and-Install).
+
+### Javascript
+
+For the javascript version, you'll need to install jest as dependency, according to [this guide](https://jestjs.io/docs/en/getting-started).
